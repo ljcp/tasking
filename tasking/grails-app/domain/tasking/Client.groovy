@@ -1,7 +1,7 @@
 package tasking
 
 class Client {
-	static hasMany = [project:Project]
+	//static hasMany = [project:Project]
 	String name
 	
 

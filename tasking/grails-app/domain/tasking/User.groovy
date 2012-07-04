@@ -1,7 +1,7 @@
 package tasking
 
 class User {
-	static hasMany = [task:Task]
+	//static hasMany = [task:Task]
 	
 	String name
 	

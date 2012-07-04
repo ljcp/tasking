@@ -1,9 +1,9 @@
 package tasking
 
 class Project {
-	static hasMany = [task:Task]
+	//static hasMany = [task:Task]
 	String name
-	Client client
+	//Client client
 
     static constraints = {
 		
